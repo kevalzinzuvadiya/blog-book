@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+margin :0;
+  
+  color: #626262;
+
+  background:linear-gradient(-450deg,#9bc5c3, papayawhip );
+  padding: 8px
+  
+  
+  
+}
+.navbar {
+  padding: 10px;
+  display:flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #025091;
+
+}
+.navbar h1 {
+  color: #626262;
+  
+}
+.navbar .links {
+  margin-left: auto;
+  
+  color: pink;
+  padding: 5px;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 7px;
+
+}
+.navbar a:hover {
+  color: #626262;
+}
+.content {
+  max-width: 800px;
+  
+  margin: 40px auto;
+  padding: 15px;
+  color: #e3d2c4;
+
+}
+.content a:hover{
+  color: #dbd5ed;
+}
+.blog-preview {
+  color: #F3E7EA;
+}
+.blog-preview a{
+  text-decoration: none;
+}
+
+/*blog details page */
+
+
+.Blog-Details h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 10px;
+}
+.blog-details div {
+  margin: 20px 0;
+  cursor: none;
+}
+.blog-details button {
+  background-color: #dbd5ed;
+  color: #fff;
+  border:0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+
+/* form in create */
+
+
+.Create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.Create label{
+  text-align: left;
+  display: block;
+}
+.Create h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 30px;
+}
+.Create input, .create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing:border-box;
+  display: block;
+}
+.create textarea {
+  resize: none;
+}
+.Create button{
+  background: #f1356d ;
+  color:white;
+}

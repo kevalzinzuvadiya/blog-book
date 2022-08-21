@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Smitha Shetty",
+      "body": "Cras hendrerit ante nulla, in euismod lorem pellentesque sit amet. Phasellus pulvinar massa nec nulla euismod, ut volutpat lacus porta. Curabitur imperdiet risus ut nisl blandit rutrum. Nunc luctus ipsum et nisi euismod, non molestie felis accumsan. Nullam ut dolor efficitur orci posuere feugiat. Aenean fermentum ipsum sit amet accumsan mattis. Phasellus vitae erat nec purus placerat scelerisque sit amet nec libero. Praesent mattis viverra diam ut aliquet. Curabitur scelerisque leo nec quam ultricies pellentesque. Proin lobortis lorem scelerisque lorem malesuada porttitor. Phasellus egestas diam sed sem sodales fringilla. Mauris magna dolor, consectetur a neque sed, tempus feugiat tellus. Praesent rutrum justo sit amet purus scelerisque congue. Etiam at felis non metus consectetur viverra. Integer in urna pharetra, posuere leo varius, cursus sapien.",
+      "author": "Keval",
+      "id": 9993
+    },
+    {
+      "title": "Deepak Kumar",
+      "body": "Pellentesque volutpat velit eget auctor tincidunt. Aliquam auctor lacus leo, eget lacinia lectus tincidunt ac. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras pharetra enim sed libero tristique, at finibus odio posuere. Morbi et turpis risus. Duis quis risus libero. Sed rutrum consequat ligula vel bibendum. Curabitur ullamcorper ut nibh in dictum. Quisque ante mauris, dignissim iaculis mi nec, posuere pellentesque nisi. Nullam dictum nunc eu ligula varius, ut consequat sem accumsan. Curabitur malesuada quis tortor quis rutrum. Maecenas fermentum arcu eget venenatis iaculis. Aliquam erat volutpat. Sed lobortis arcu lorem, iaculis condimentum augue hendrerit vitae. Vivamus ut semper urna. Aliquam a vulputate neque, vel dapibus purus.",
+      "author": "Vaishnavi",
+      "id": 9994
+    },
+    {
+      "title": "Akshatha Gowda",
+      "body": "Cras hendrerit ante nulla, in euismod lorem pellentesque sit amet. Phasellus pulvinar massa nec nulla euismod, ut volutpat lacus porta. Curabitur imperdiet risus ut nisl blandit rutrum. Nunc luctus ipsum et nisi euismod, non molestie felis accumsan. Nullam ut dolor efficitur orci posuere feugiat. Aenean fermentum ipsum sit amet accumsan mattis. Phasellus vitae erat nec purus placerat scelerisque sit amet nec libero. Praesent mattis viverra diam ut aliquet. Curabitur scelerisque leo nec quam ultricies pellentesque. Proin lobortis lorem scelerisque lorem malesuada porttitor. Phasellus egestas diam sed sem sodales fringilla. Mauris magna dolor, consectetur a neque sed, tempus feugiat tellus. Praesent rutrum justo sit amet purus scelerisque congue. Etiam at felis non metus consectetur viverra. Integer in urna pharetra, posuere leo varius, cursus sapien.",
+      "author": "Akshatha",
+      "id": 9995
+    },
+    {
+      "title": "Jaydev Ghatpande",
+      "body": "Pellentesque volutpat velit eget auctor tincidunt. Aliquam auctor lacus leo, eget lacinia lectus tincidunt ac. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras pharetra enim sed libero tristique, at finibus odio posuere. Morbi et turpis risus. Duis quis risus libero. Sed rutrum consequat ligula vel bibendum. Curabitur ullamcorper ut nibh in dictum. Quisque ante mauris, dignissim iaculis mi nec, posuere pellentesque nisi. Nullam dictum nunc eu ligula varius, ut consequat sem accumsan. Curabitur malesuada quis tortor quis rutrum. Maecenas fermentum arcu eget venenatis iaculis. Aliquam erat volutpat. Sed lobortis arcu lorem, iaculis condimentum augue hendrerit vitae. Vivamus ut semper urna. Aliquam a vulputate neque, vel dapibus purus.",
+      "author": "Keval",
+      "id": 9996
+    },
+    {
+      "title": "Suvom Mondal",
+      "body": "Cras hendrerit ante nulla, in euismod lorem pellentesque sit amet. Phasellus pulvinar massa nec nulla euismod, ut volutpat lacus porta. Curabitur imperdiet risus ut nisl blandit rutrum. Nunc luctus ipsum et nisi euismod, non molestie felis accumsan. Nullam ut dolor efficitur orci posuere feugiat. Aenean fermentum ipsum sit amet accumsan mattis. Phasellus vitae erat nec purus placerat scelerisque sit amet nec libero. Praesent mattis viverra diam ut aliquet. Curabitur scelerisque leo nec quam ultricies pellentesque. Proin lobortis lorem scelerisque lorem malesuada porttitor. Phasellus egestas diam sed sem sodales fringilla. Mauris magna dolor, consectetur a neque sed, tempus feugiat tellus. Praesent rutrum justo sit amet purus scelerisque congue. Etiam at felis non metus consectetur viverra. Integer in urna pharetra, posuere leo varius, cursus sapien.",
+      "author": "Rutvvy",
+      "id": 9997
+    }
+  ]
+}
